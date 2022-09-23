@@ -1,1 +1,1 @@
-# Øvinger i maskinlæring for signalbehandling
+# Øvinger i TTT4185 Maskinlæring for signalbehandling
